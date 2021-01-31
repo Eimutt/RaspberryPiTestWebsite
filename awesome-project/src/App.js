@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hejhej :)
+          See my amazing projects: <a href="https://github.com/Eimutt?tab=repositories">Github</a>
         </p>
       </header>
     </div>
